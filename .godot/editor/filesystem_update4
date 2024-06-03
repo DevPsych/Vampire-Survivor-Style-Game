@@ -1,2 +1,10 @@
+res://Bullet.gd
+res://bullet.tscn
+res://gun.gd
+res://gun.tscn
+res://survivors_game.tscn
 res://player.tscn
+res://mob.tscn
+res://mob.gd
 res://player.gd
+res://survivors_game.gd
